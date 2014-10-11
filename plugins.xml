@@ -11,14 +11,14 @@
     <icon>icon.png</icon>
     <author_name><![CDATA[Louise Ireland]]></author_name>
     <email><![CDATA[louireland@gmail.com]]></email>
-    <file_name>seaice-downloader.zip</file_name>
-    <download_url>http://blog.remotesensing.io/qgis-plugins-repo/seaice-downloader.zip</download_url>
+    <file_name>sea_ice_downloader.zip</file_name>
+    <download_url>http://blog.remotesensing.io/qgis-plugins-repo/sea_ice_downloader.zip</download_url>
     <create_date>2014-10-10T09:43:57.251757</create_date>
     <update_date>2012-10-10T09:43:57.251757</update_date>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
-    <tracker><![CDATA[https://github.com/lo-ise/seaice-downloader/issues]]></tracker>
-    <repository><![CDATA[https://github.com/lo-ise/seaice-downloader]]></repository>
+    <tracker><![CDATA[https://github.com/lo-ise/sea_ice_downloader/issues]]></tracker>
+    <repository><![CDATA[https://github.com/lo-ise/sea_ice_downloader]]></repository>
     <tags><![CDATA[sea ice,antarctica,data,downloader]]></tags>
   </pyqgis_plugin>
 </plugins>
