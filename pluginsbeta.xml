@@ -1,0 +1,24 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<plugins>
+    <pyqgis_plugin name="Oceancolor Downloader" version="1.0.0">
+    <description><![CDATA[Downloads data from NASA OceanColor.]]></description>
+    <about><![CDATA[]]></about>
+    <version>1.0.0</version>
+    <qgis_minimum_version>2.0.0</qgis_minimum_version>
+    <qgis_maximum_version></qgis_maximum_version>
+    <homepage><![CDATA[]]></homepage>
+    <!-- from repo -->
+    <icon>icon.png</icon>
+    <author_name><![CDATA[Louise Ireland]]></author_name>
+    <email><![CDATA[louireland@gmail.com]]></email>
+    <file_name>oceancolor_downloader.zip</file_name>
+    <download_url>http://plugins.remotesensing.io/oceancolor_downloader.zip</download_url>
+    <create_date>2014-10-10T09:43:57.251757</create_date>
+    <update_date>2012-10-10T09:43:57.251757</update_date>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tracker><![CDATA[https://github.com/lo-ise/oceancolor_downloader/issues]]></tracker>
+    <repository><![CDATA[https://github.com/lo-ise/oceancolor_downloader]]></repository>
+    <tags><![CDATA[data,downloader]]></tags>
+  </pyqgis_plugin>
+</plugins>
